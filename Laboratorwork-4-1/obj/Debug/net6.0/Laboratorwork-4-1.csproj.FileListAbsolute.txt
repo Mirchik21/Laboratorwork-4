@@ -1,0 +1,17 @@
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\bin\Debug\net6.0\Laboratorwork-4-1.exe
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\bin\Debug\net6.0\Laboratorwork-4-1.deps.json
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\bin\Debug\net6.0\Laboratorwork-4-1.runtimeconfig.json
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\bin\Debug\net6.0\Laboratorwork-4-1.dll
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\bin\Debug\net6.0\Laboratorwork-4-1.pdb
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.csproj.AssemblyReference.cache
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.AssemblyInfoInputs.cache
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.AssemblyInfo.cs
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.csproj.CoreCompileInputs.cache
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.csproj.CopyComplete
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.dll
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\refint\Laboratorwork-4-1.dll
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.pdb
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\Laboratorwork-4-1.genruntimeconfig.cache
+C:\classwork\Laboratorwork-4-1\Laboratorwork-4-1\obj\Debug\net6.0\ref\Laboratorwork-4-1.dll
